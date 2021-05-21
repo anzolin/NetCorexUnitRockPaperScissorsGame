@@ -16,7 +16,7 @@
 <br />
 
 
-# RockPaperScissors
+# Net Core (and standard) xUnit Rock Paper Scissors Game
 A simple example test project (net standard/core) using xUnit for Rock Paper Scissors Game.
 
 
