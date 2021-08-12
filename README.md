@@ -13,7 +13,7 @@
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<br />
+---
 
 
 # Net Core (and standard) xUnit Rock Paper Scissors Game
