@@ -7,8 +7,9 @@
 *** https://www.markdownguide.org/basic-syntax/#reference-style-links
 -->
 [![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
+[![Watchers][watchers-shield]][watchers-url]
 [![Stargazers][stars-shield]][stars-url]
+[![Forks][forks-shield]][forks-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -46,6 +47,8 @@ Thank you!
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 [contributors-shield]: https://img.shields.io/github/contributors/anzolin/NetCorexUnitRockPaperScissorsGame.svg?style=for-the-badge
 [contributors-url]: https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame/graphs/contributors
+[watchers-shield]: https://img.shields.io/github/watchers/anzolin/AnzolinNetDevPack.svg?style=for-the-badge
+[watchers-url]: https://github.com/anzolin/AnzolinNetDevPack/watchers
 [forks-shield]: https://img.shields.io/github/forks/anzolin/NetCorexUnitRockPaperScissorsGame.svg?style=for-the-badge
 [forks-url]: https://github.com/anzolin/NetCorexUnitRockPaperScissorsGame/network/members
 [stars-shield]: https://img.shields.io/github/stars/anzolin/NetCorexUnitRockPaperScissorsGame.svg?style=for-the-badge
